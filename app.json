@@ -1,0 +1,29 @@
+{
+    "name": "Mirror bot in github action",
+    "description": "Made in python using pyrogram",
+    "logo": "https://telegra.ph/file/8fd3bb89b9fb46867e7c9.jpg",
+    "keywords": [
+        "Telethon",
+        "telegram",
+        "userbot",
+        "python",
+        "ultroid"
+    ],
+    "repository": "https://github.com/rooted-cyber/Mirror-bot",
+    "website": "https://ultroid.tech",
+    "success_url": "https://t.me/TheUltroid",
+    "stack": "container",
+    "env": {
+        "ENTER_NAME": {
+            "description": "Name of your",
+            "value": "Maruf",
+            "required": false
+        }
+    },
+    "formation": {
+        "ultroid": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
