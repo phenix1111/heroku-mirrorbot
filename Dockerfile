@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM arshsisodiya/helioskirepo:public
 WORKDIR /maruf
 
 ENV TZ=Asia/Kolkata
